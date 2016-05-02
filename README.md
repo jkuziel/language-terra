@@ -1,10 +1,15 @@
-Lua language support in Atom
+Terra language support in Atom
 ======
 
-Add syntax highlighting and snippets to Lua files in Atom.
+Add syntax highlighting and snippets to Terra files in Atom.
 
-See: https://atom.io/packages/language-lua
-and: https://www.npmjs.com/package/language-lua
+Official Terra Website: [terralang.org](http://terralang.org)
+
+Derived work based on the [language-lua](https://atom.io/packages/language-lua) Atom package written by [Jorge Garrido Oval](https://github.com/FireZenk)
+
+Contributions are greatly appreciated. Please fork this repository and open a
+pull request to add snippets, make grammar tweaks, etc.
+
 
 Common snippets
 ---
@@ -80,22 +85,3 @@ Math function snippets
 | sqrt          | math.sqrt                | math.sqrt(x)         |
 | tan           | math.tan                 | math.tan(x)          |
 | tanh          | math.tanh                | math.tanh(x)         |
-
-Author
-------
-__Jorge Garrido Oval__
-* [https://github.com/FireZenk](https://github.com/FireZenk)
-
-
-Contributors
----
-
-Contributions are greatly appreciated. Please fork this repository and open a
-pull request to add snippets, make grammar tweaks, etc.
-
-License
-------
-Atom language-lua is released under the MIT license.
-
->Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
-from the [Lua TextMate bundle](https://github.com/textmate/lua.tmbundle).

@@ -1,13 +1,15 @@
 {
-  "name": "language-lua",
-  "version": "0.9.4",
-  "private": false,
-  "author": "FireZenk <firezenk@gmail.com>",
-  "description": "Add syntax highlighting and snippets to Lua files in Atom",
-  "repository": "https://github.com/FireZenk/language-lua",
+  "name": "language-terra",
+  "version": "0.1.0",
+  "author": "Joseph Kuziel <jkuziel@gmail.com>",
+  "description": "Add syntax highlighting and snippets to Terra files in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/jkuziel/language-terra",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.50.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }

@@ -1,0 +1,5 @@
+'.source.terra':
+  'editor':
+    'commentStart': '-- '
+    'increaseIndentPattern': '\\b(else|elseif|(local\\s+)?function|terra|then|do|repeat)\\b((?!end).)*$|\\{\\s*$'
+    'decreaseIndentPattern': '^\\s*(elseif|else|end|until,?|\\}\\)?).*$'
