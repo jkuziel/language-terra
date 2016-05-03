@@ -1,15 +1,13 @@
 {
   "name": "language-terra",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Joseph Kuziel <jkuziel@gmail.com>",
   "description": "Add syntax highlighting and snippets to Terra files in Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/jkuziel/language-terra",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
